@@ -1,8 +1,8 @@
 # LIPA-IO-data-format
 The LIPAIO data format assumes that data collection has the following structure.
-Measurement
-    -> Sequence
-        -> Aquisition
+Measurement <br>
+    -> Sequence <br>
+        -> Aquisition <br>
 
 An aquisition is a single recorded time trace, equivalent to a  single a-scan. 
 All aquisitions made with the same parameters such as source-reciever location pair make up a sequence.
