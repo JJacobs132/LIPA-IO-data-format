@@ -1,3 +1,7 @@
+NOTES: <br>
+- Currently the SPM and CSPM must have the same field filled for each sequence dictionary
+- The SPM, CSPM and MTD all have associated datatypes for the fields within their dictionaries
+
 # LIPA-IO-data-format
 The LIPAIO data format assumes that data collection has the following structure. <br>
 Measurement <br>
